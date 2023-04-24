@@ -1,9 +1,3 @@
-/*
-ID:p2111511
-LANG:JAVA
-TASK:castle
- */
-
 import java.io.*;
 import java.util.*;
 
